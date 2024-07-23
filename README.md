@@ -150,12 +150,14 @@ Firebase Storage is used to store and retrieve user data such as profile picture
 
 ## Screenshots
 
-![Splash Screen](screenshots/Splash.jpg)
-![Login Screen](screenshots/Login.jpg)
-![OTP Screen](screenshots/OTP_Verification.jpg)
-![Home Screen](screenshots/home.jpg)
-![Category Screen](screenshots/category.jpg)
-![Cart Screen](screenshots/cart.jpg)
+
+<img src="screenshots/Splash.jpg" alt="Splash Screen" width="200"/>
+<img src="screenshots/Login.jpg" alt="Login Screen" width="200"/>
+<img src="screenshots/OTP_Verification.jpg" alt="OTP Screen" width="200"/>
+<img src="screenshots/home.jpg" alt="Home Screen" width="200"/>
+<img src="screenshots/category.jpg" alt="Category Screen" width="200">
+<img src="screenshots/cart.jpg" alt="Cart Screen" width="200"/>
+
 
 ## License
 
